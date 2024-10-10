@@ -26,8 +26,15 @@ Navigate to http://localhost:3000 in your web browser
 
 ##  Screenshots
 
-![image](https://github.com/user-attachments/assets/1deb5e0b-9008-4e76-a261-3c7d2e1cee76)
-![image](https://github.com/user-attachments/assets/cd7ce484-7a02-4a84-9bec-9f8d6ee85fa1)
+
+
+
+![image](https://github.com/user-attachments/assets/03a9df6b-7c6c-40b3-b1f8-51a79030b589)
+
+
+
+![image](https://github.com/user-attachments/assets/5b656240-514c-4545-9e08-143b16fbb022)
+
 
 ### 📦 Built With
 
