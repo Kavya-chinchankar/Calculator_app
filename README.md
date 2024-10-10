@@ -42,7 +42,7 @@ Navigate to http://localhost:3000 in your web browser
 - [tailwindcss] https://tailwindcss.com/docs/guides/nextjs
 
 ### GitHub Link
-- https://github.com/Kavya-chinchankar/Todo-App_Task.git 
+- https://github.com/Kavya-chinchankar/Calculator_app.git
 
   
 
